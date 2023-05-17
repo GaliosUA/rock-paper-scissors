@@ -2,3 +2,16 @@
     background-color: black;
     color: white;
 }
+button {
+    width: 150px;
+    height: auto;
+}
+
+.result {
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.winner {
+    margin-top: 10px;
+    white-space: pre-line;
+}
